@@ -4,7 +4,7 @@ function todennakoisyys() {
 
     let p = document.createElement("p");
 
-    if(haluttuSumma < nopat || nopat * 6 > haluttuSumma){
+    if(haluttuSumma < nopat || nopat * 6 < haluttuSumma){
         p.innerHTML = "Summa ei ole mahdollinen";
         document.body.appendChild(p);
         return;
@@ -13,12 +13,16 @@ function todennakoisyys() {
     let maara = 0;
 
     for(let i = 0; i < 10000; i++){
-        if(Number(Math.floor(Math.random() * 6) + 1) === haluttuSumma){
+        let noppienSumma = 0;
+        for(let j = 0; j < nopat; j++){
+            noppienSumma += Number(Math.floor(Math.random() * 6) + 1);
+        }
+        if(noppienSumma === haluttuSumma){
             maara++;
         }
     }
 
-    p.innerHTML = "Todennäköisyys saada " + haluttuSumma + ", " + nopat + ":lla nopalla on " + (maara / 10000 * 100) + "%";
+    p.innerHTML = "Todennäköisyys saada " + haluttuSumma + ", " + nopat + ":lla nopalla on " + (maara / 100) + "%";
 
     document.body.appendChild(p);
 }
