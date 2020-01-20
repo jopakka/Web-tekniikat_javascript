@@ -44,7 +44,12 @@ function subLinks(myJson) {
     ul.appendChild(innerUl);
     for(let i = 0; i < myJson.links.length; i++){
         let innerLi = document.createElement("li");
-        innerLi.innerHTML = "<a href='" + myJson.links[i] + "'>" + "Tehtävä " + (i + 1) + "</a>";
+        innerLi.innerHTML = "<a href='javascript:void(0);'>" + "Tehtävä " + (i + 1) + "</a>";
+        li.addEventListener("click", function() {
+            let iframe = document.createElement("iframe");
+            iframe.src = myJson.links[i];
+            document.getElementById("tehtavaDiv").appendChild(iframe);
+        });
         innerUl.appendChild(innerLi);
     }
 }

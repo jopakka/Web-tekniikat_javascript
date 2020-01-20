@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#linkDiv {
+    width: 20%;
+    height: 100%;
+    background-color: aqua;
+    margin: 0 auto 0 0;
+    padding: 0;
+}
+
+#linkDiv ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+}
+
+#linkDiv li {
+    background-color: beige;
+}
