@@ -1,6 +1,5 @@
-[
-    {
-        "vuorovaikuttteiset": [
+{
+        "vuorovaikutteiset": [
             {
                 "url": "vuorovaikutteiset_ohjelmat/tehtava1/tehtava1.html"
             },
@@ -28,13 +27,12 @@
             {
                 "url": "vuorovaikutteiset_ohjelmat/tehtava9/tehtava9.html"
             }
-        ]
-    },
-    {
+        ],
+
+
         "valintarakenteet": [
             {
                 "url": "valintarakenteet/tehtävä1/tehtava1.html"
             }
         ]
     }
-]
