@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ca500d0-a144-4abe-bb17-0ab32451a1cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/kaikki.js" beforeDir="false" afterPath="$PROJECT_DIR$/kaikki.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä1/tehtava1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä1/tehtava1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä2/tehtava2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä2/tehtava2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä3/tehtava3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä3/tehtava3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä4/tehtava4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä4/tehtava4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä5/tehtava5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä5/tehtava5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä6/tehtava6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä6/tehtava6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä7/tehtava7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä7/tehtava7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä1/tehtava1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä1/tehtava1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä2/tehtava2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä2/tehtava2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä3/tehtava3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä3/tehtava3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä4/tehtava4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä4/tehtava4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä5/tehtava5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä5/tehtava5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä6/tehtava6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä6/tehtava6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä7/tehtava7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä7/tehtava7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä1/tehtava1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä1/tehtava1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä2/tehtava2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä2/tehtava2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä3/tehtava3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä3/tehtava3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä4/tehtava4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä4/tehtava4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä5/tehtava5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä5/tehtava5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä6/tehtava6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä6/tehtava6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä1/tehtava1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä1/tehtava1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä2/tehtava2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä2/tehvava2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä3/tehtava3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä3/tehtava3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä4/tehtava4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä4/tehtava4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä5/tehtava5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä5/tehtava5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä6/tehtava6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä6/tehtava6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä7/tehtava7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä7/tehtava7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä8/tehtava8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä8/tehtava8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä9/tehtava9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä9/tehtava9.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WKhvBWGjxliBXybWi58fOpuWfH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Taulukot/Tehtävä 7" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Vuorovaikutteiset ohjelmat\Tehtävä 4" />
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Vuorovaikutteiset ohjelmat\Tehtävä 1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Taulukot\Tehtävä 7" />
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Taulukot\Tehtävä 6" />
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Taulukot\Tehtävä 5" />
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Taulukot\Tehtävä 4" />
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Taulukot\Tehtävä 3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tehtava2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/taulukot/tehtävä2/tehtava2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tehtava5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/Taulukot/Tehtävä 5/tehtava5.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tehtava6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/Taulukot/Tehtävä 6/tehtava6.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tehtava7.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/Taulukot/Tehtävä 7/tehtava7.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.tehtava2.html" />
+        <item itemvalue="JavaScript Debug.tehtava7.html" />
+        <item itemvalue="JavaScript Debug.tehtava6.html" />
+        <item itemvalue="JavaScript Debug.tehtava5.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ca500d0-a144-4abe-bb17-0ab32451a1cc" name="Default Changelist" comment="" />
+      <created>1578904421288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578904421288</updated>
+      <workItem from="1578904422532" duration="11598000" />
+      <workItem from="1578923870303" duration="8985000" />
+      <workItem from="1578985227957" duration="107000" />
+      <workItem from="1578985470027" duration="107000" />
+      <workItem from="1578986261673" duration="9000" />
+      <workItem from="1578996054676" duration="1967000" />
+      <workItem from="1579001904576" duration="4581000" />
+      <workItem from="1579071496129" duration="611000" />
+      <workItem from="1579243117606" duration="842000" />
+      <workItem from="1579246700425" duration="14137000" />
+      <workItem from="1579504257243" duration="9696000" />
+    </task>
+    <task id="LOCAL−00001" summary="Javascript tehtäviä">
+      <created>1578917981315</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1578917981315</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Javascript tehtäviä">
+      <created>1578985546397</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1578985546398</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Javascript tehtäviä">
+      <created>1579250991949</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1579250991949</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Javascript tehtäviä">
+      <created>1579263783450</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1579263783450</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Javascript tehtäviä">
+      <created>1579506599968</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1579506599968</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Javascript tehtäviä">
+      <created>1579510477747</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1579510477747</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Javascript tehtäviä">
+      <created>1579511196972</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1579511196972</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Javascript tehtäviä">
+      <created>1579511219524</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1579511219524</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Javascript tehtäviä">
+      <created>1579512254489</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1579512254489</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Javascript tehtäviä">
+      <created>1579514598198</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1579514598198</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Javascript tehtäviä">
+      <created>1579514854053</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1579514854053</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Javascript tehtäviä">
+      <created>1579515383350</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1579515383350</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Javascript tehtäviä" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javascript tehtäviä" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#JSON" timestamp="1579508848166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#JSON/0.0.1536.824@0.0.1536.824" timestamp="1579508848166" />
+    <state x="527" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579032187227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579032187227" />
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579517304376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579517304376" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579517209510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579517209510" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578905410334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578905410334" />
+  </component>
+</project>
