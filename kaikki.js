@@ -12,22 +12,39 @@ function folders() {
 }
 
 function links(myJson) {
+    document.getElementById("linkDiv").innerHTML = "";
     let lu = document.createElement("ul");
     document.getElementById("linkDiv").appendChild(lu);
 
     for(let i = 0; i < Object.keys(myJson).length; i++){
-        myJson[0]
+        console.log(myJson[i]);
 
         let li = document.createElement("li");
-        li.innerHTML = "<a href='javascript:void(0);' onclick='subLinks(" + (myJson + "." + Object.keys(myJson)[i]) + ")'>" + Object.keys(myJson)[i] +  "</a>";
+        li.innerHTML = "<a href='javascript:void(0);'>" + myJson[i].name +  "</a>";
+        li.addEventListener("click", function() {
+            subLinks(myJson[i])
+        });
         lu.appendChild(li);
     }
 }
 
-function subLinks(id) {
-    console.log("Vittu tää toimii: " + id);
+function subLinks(myJson) {
+    console.log("Vittu tää toimii: " + myJson.links[0]);
 
+    document.getElementById("linkDiv").innerHTML = "";
+
+    let ul = document.createElement("ul");
+    document.getElementById("linkDiv").appendChild(ul);
+
+    let li = document.createElement("li");
+    li.innerHTML = "<a href='index.html'>" + "Takaisin" + "</a>";
+    ul.appendChild(li);
+
+    let innerUl = document.createElement("ul");
+    ul.appendChild(innerUl);
     for(let i = 0; i < 9; i++){
-
+        let innerLi = document.createElement("li");
+        innerLi.innerHTML = "<a href='" + myJson.links[i] + "'>" + "Tehtävä " + (i + 1) + "</a>";
+        innerUl.appendChild(innerLi);
     }
 }
