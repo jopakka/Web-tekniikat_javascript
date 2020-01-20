@@ -42,7 +42,7 @@ function subLinks(myJson) {
 
     let innerUl = document.createElement("ul");
     ul.appendChild(innerUl);
-    for(let i = 0; i < 9; i++){
+    for(let i = 0; i < myJson.links.length; i++){
         let innerLi = document.createElement("li");
         innerLi.innerHTML = "<a href='" + myJson.links[i] + "'>" + "Tehtävä " + (i + 1) + "</a>";
         innerUl.appendChild(innerLi);
