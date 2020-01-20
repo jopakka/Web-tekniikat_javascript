@@ -13,17 +13,21 @@ function folders() {
 
 function links(myJson) {
     let lu = document.createElement("ul");
-    document.body.appendChild(lu);
+    document.getElementById("linkDiv").appendChild(lu);
 
     for(let i = 0; i < Object.keys(myJson).length; i++){
-        console.log(Object.keys(myJson)[i]);
+        myJson[0]
 
         let li = document.createElement("li");
-        li.innerHTML = "<a href='" + Object.keys(myJson)[i] + "'>" + Object.keys(myJson)[i] +  "</a>";
+        li.innerHTML = "<a href='javascript:void(0);' onclick='subLinks(" + (myJson + "." + Object.keys(myJson)[i]) + ")'>" + Object.keys(myJson)[i] +  "</a>";
         lu.appendChild(li);
     }
 }
 
-function subLinks() {
+function subLinks(id) {
+    console.log("Vittu tää toimii: " + id);
 
+    for(let i = 0; i < 9; i++){
+
+    }
 }

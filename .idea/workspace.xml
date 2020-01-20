@@ -2,65 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ca500d0-a144-4abe-bb17-0ab32451a1cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kaikki.js" beforeDir="false" afterPath="$PROJECT_DIR$/kaikki.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä1/tehtava1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä1/tehtava1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä2/tehtava2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä2/tehtava2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä3/tehtava3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä3/tehtava3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä4/tehtava4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä4/tehtava4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä5/tehtava5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä5/tehtava5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä6/tehtava6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä6/tehtava6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä7/tehtava7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taulukot/tehtävä7/tehtava7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä1/tehtava1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä1/tehtava1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä2/tehtava2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä2/tehtava2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä3/tehtava3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä3/tehtava3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä4/tehtava4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä4/tehtava4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä5/tehtava5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä5/tehtava5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä6/tehtava6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä6/tehtava6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä7/tehtava7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toistorakenteet/tehtävä7/tehtava7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä1/tehtava1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä1/tehtava1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä2/tehtava2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä2/tehtava2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä3/tehtava3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä3/tehtava3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä4/tehtava4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä4/tehtava4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä5/tehtava5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä5/tehtava5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä6/tehtava6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valintarakenteet/tehtävä6/tehtava6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä1/tehtava1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä1/tehtava1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä2/tehtava2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä2/tehvava2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä3/tehtava3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä3/tehtava3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä4/tehtava4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä4/tehtava4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä5/tehtava5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä5/tehtava5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä6/tehtava6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä6/tehtava6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä7/tehtava7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä7/tehtava7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä8/tehtava8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä8/tehtava8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä9/tehtava9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuorovaikutteiset_ohjelmat/tehtävä9/tehtava9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tehtavat.json" beforeDir="false" afterPath="$PROJECT_DIR$/tehtavat.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +117,7 @@
       <workItem from="1579071496129" duration="611000" />
       <workItem from="1579243117606" duration="842000" />
       <workItem from="1579246700425" duration="14137000" />
-      <workItem from="1579504257243" duration="9696000" />
+      <workItem from="1579504257243" duration="13287000" />
     </task>
     <task id="LOCAL−00001" summary="Javascript tehtäviä">
       <created>1578917981315</created>
@@ -246,7 +191,19 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1579515383350</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="Javascript tehtäviä">
+      <created>1579517205335</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1579517205335</updated>
+    </task>
+    <task id="LOCAL−00014" summary="Javascript tehtäviä">
+      <created>1579517327959</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1579517327959</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,14 +222,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="527" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579032187227" />
-    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579517304376">
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579517327577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579517304376" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579517209510">
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579517327577" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579517329431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579517209510" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579517329431" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578905410334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
