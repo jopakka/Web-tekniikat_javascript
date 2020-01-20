@@ -1,6 +1,4 @@
 function folders() {
-    let myUrl = require("tehtavat");
-    /*
     let myUrl = "https://raw.githubusercontent.com/jopakka/Web-tekniikat_javascript/master/tehtavat.json";
 
     fetch(myUrl)
@@ -11,10 +9,8 @@ function folders() {
     }).catch(function(error){
         console.log(error);
     });
-    */
 }
 
-function linkit(vuorovaikutteiset) {
-    let x = vuorovaikutteiset[1];
-    console.log(x.vuorovaikutteiset);
+function linkit(myJson) {
+    console.log(myJson.vuorovaikutteiset.t1);
 }
