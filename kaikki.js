@@ -1,5 +1,5 @@
 function folders() {
-    let myUrl = "https://raw.githubusercontent.com/jopakka/Web-tekniikat_javascript/master/tehtavat.json?token=AGNGJDS65ET7NDZTUXBGC4K6EVUMK";
+    let myUrl = "https://raw.githubusercontent.com/jopakka/Web-tekniikat_javascript/master/tehtavat.json";
 
     fetch(myUrl)
         .then(function(vastaus){
@@ -13,5 +13,5 @@ function folders() {
 
 function naytaKuva(vuorovaikuttteiset) {
     let x = vuorovaikuttteiset[0];
-    console.log(x);
+    console.log(JSON.parse(vuorovaikuttteiset));
 }
