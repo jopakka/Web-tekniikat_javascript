@@ -1,16 +1,36 @@
 {
-    "vuorovaikutteiset": {
-        "t1": "vuorovaikutteiset_ohjelmat/tehtava1/tehtava1.html",
-        "t2": "vuorovaikutteiset_ohjelmat/tehtava2/tehtava2.html",
-        "t3": "vuorovaikutteiset_ohjelmat/tehtava3/tehtava3.html",
-        "t4": "vuorovaikutteiset_ohjelmat/tehtava4/tehtava4.html",
-        "t5": "vuorovaikutteiset_ohjelmat/tehtava5/tehtava5.html",
-        "t6": "vuorovaikutteiset_ohjelmat/tehtava6/tehtava6.html",
-        "t7": "vuorovaikutteiset_ohjelmat/tehtava7/tehtava7.html",
-        "t8": "vuorovaikutteiset_ohjelmat/tehtava8/tehtava8.html",
-        "t9": "vuorovaikutteiset_ohjelmat/tehtava9/tehtava9.html"
-    },
-    "valintarakenteet": {
-        "t1": "valintarakenteet/tehtävä1/tehtava1.html"
-    }
+    "vuorovaikutteiset": [
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava1/tehtava1.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava2/tehtava2.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava3/tehtava3.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava4/tehtava4.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava5/tehtava5.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava6/tehtava6.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava7/tehtava7.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava8/tehtava8.html"
+        },
+        {
+            "url": "vuorovaikutteiset_ohjelmat/tehtava9/tehtava9.html"
+        }
+    ],
+    "valintarakenteet": [
+        {
+            "url": "valintarakenteet/tehtävä1/tehtava1.html"
+        }
+    ]
 }

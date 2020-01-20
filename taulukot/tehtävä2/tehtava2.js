@@ -13,5 +13,4 @@ function osallistujat() {
         li.innerHTML = nimet[i];
         ol.appendChild(li);
     }
-
 }
