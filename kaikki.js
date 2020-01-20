@@ -5,12 +5,25 @@ function folders() {
         .then(function(vastaus){
             return vastaus.json();
         }).then(function(json){
-        linkit(json);
+        links(json);
     }).catch(function(error){
         console.log(error);
     });
 }
 
-function linkit(myJson) {
-    console.log(myJson.vuorovaikutteiset.t1);
+function links(myJson) {
+    let lu = document.createElement("ul");
+    document.body.appendChild(lu);
+
+    for(let i = 0; i < Object.keys(myJson).length; i++){
+        console.log(Object.keys(myJson)[i]);
+
+        let li = document.createElement("li");
+        li.innerHTML = "<a href='" + Object.keys(myJson)[i] + "'>" + Object.keys(myJson)[i] +  "</a>";
+        lu.appendChild(li);
+    }
+}
+
+function subLinks() {
+
 }
