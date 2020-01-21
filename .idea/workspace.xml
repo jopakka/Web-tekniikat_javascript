@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ca500d0-a144-4abe-bb17-0ab32451a1cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dom/tehtava1/tehtava1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom/tehtava1/tehtava1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/tehtava2/teht2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/tehtava2/teht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom/tehtava2/teht2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\dom\tehtava2" />
       <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\dom\tehtava1" />
       <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\dom\," />
       <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\Vuorovaikutteiset ohjelmat\Tehtävä 4" />
@@ -63,14 +64,14 @@
       <recent name="C:\Users\jopak\WebstormProjects\JavascriptTehtavat\funktiot\tehtava5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.tehtava1.html">
+  <component name="RunManager" selected="JavaScript Debug.teht2.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tehtava1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/dom/tehtava1/tehtava1.html" useBuiltInWebServerPort="true">
+    <configuration name="teht2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/dom/tehtava2/teht2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tehtava7.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/funktiot/tehtava7/tehtava7.html" useBuiltInWebServerPort="true">
+    <configuration name="tehtava1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/dom/tehtava1/tehtava1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="tehtava8.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavascriptTehtavat/funktiot/tehtava8/tehtava8.html" useBuiltInWebServerPort="true">
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.teht2.html" />
         <item itemvalue="JavaScript Debug.tehtava1.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.tehtava9.html" />
         <item itemvalue="JavaScript Debug.tehtava8.html" />
-        <item itemvalue="JavaScript Debug.tehtava7.html" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +123,7 @@
       <workItem from="1579243117606" duration="842000" />
       <workItem from="1579246700425" duration="14137000" />
       <workItem from="1579504257243" duration="26321000" />
-      <workItem from="1579589347006" duration="3134000" />
+      <workItem from="1579589347006" duration="3731000" />
     </task>
     <task id="LOCAL−00001" summary="Javascript tehtäviä">
       <created>1578917981315</created>
@@ -244,7 +245,13 @@
       <option name="presentableId" value="LOCAL−00020" />
       <updated>1579589952619</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL−00021" summary="Javascript tehtäviä">
+      <created>1579592692733</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1579592692733</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,14 +270,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="527" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579535995788" />
-    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579589952135">
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1579592692322">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579589952135" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579589954446">
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579592692322" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579592693933">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579589954446" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579592693933" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579535908855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
