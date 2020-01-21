@@ -1,11 +1,15 @@
 body {
     padding: 0;
     margin: 0;
+    height: 200px;
+}
+
+.mainContent {
+    margin: auto;
 }
 
 #linkDiv {
     width: 20%;
-    height: 100%;
     background-color: aqua;
     margin: 0 auto 0 0;
     padding: 0;
@@ -19,4 +23,5 @@ body {
 
 #linkDiv li {
     background-color: beige;
+    padding: 5pt;
 }

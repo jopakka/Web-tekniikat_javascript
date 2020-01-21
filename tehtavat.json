@@ -16,7 +16,48 @@
     {
         "name": "Valintarakenteet",
         "links": [
-            "valintarakenteet/tehtava1/tehtava1.html"
+            "valintarakenteet/tehtava1/tehtava1.html",
+            "valintarakenteet/tehtava2/tehtava2.html",
+            "valintarakenteet/tehtava3/tehtava3.html",
+            "valintarakenteet/tehtava4/tehtava4.html",
+            "valintarakenteet/tehtava5/tehtava5.html",
+            "valintarakenteet/tehtava6/tehtava6.html"
+        ]
+    },
+    {
+        "name": "Toistorakenteet",
+        "links": [
+            "toistorakenteet/tehtava1/tehtava1.html",
+            "toistorakenteet/tehtava2/tehtava2.html",
+            "toistorakenteet/tehtava3/tehtava3.html",
+            "toistorakenteet/tehtava4/tehtava4.html",
+            "toistorakenteet/tehtava5/tehtava5.html",
+            "toistorakenteet/tehtava6/tehtava6.html",
+            "toistorakenteet/tehtava7/tehtava7.html"
+        ]
+    },
+    {
+        "name": "Taulukot",
+        "links": [
+            "taulukot/tehtava1/tehtava1.html",
+            "taulukot/tehtava2/tehtava2.html",
+            "taulukot/tehtava3/tehtava3.html",
+            "taulukot/tehtava4/tehtava4.html",
+            "taulukot/tehtava5/tehtava5.html",
+            "taulukot/tehtava6/tehtava6.html",
+            "taulukot/tehtava7/tehtava7.html"
+        ]
+    },
+    {
+        "name": "Funktiot",
+        "links": [
+            "funktiot/tehtava1/tehtava1.html",
+            "funktiot/tehtava2/tehtava2.html",
+            "funktiot/tehtava3/tehtava3.html",
+            "funktiot/tehtava4/tehtava4.html",
+            "funktiot/tehtava5/tehtava5.html",
+            "funktiot/tehtava6/tehtava6.html",
+            "funktiot/tehtava7/tehtava7.html"
         ]
     }
 ]
