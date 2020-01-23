@@ -1,4 +1,4 @@
-//Muokkaa teht1.js tiedostoa ja tee skripti joka korvaa listassa olevat tiedot omillasi.
+//Muokkaa tehtava1.js tiedostoa ja tee skripti joka korvaa listassa olevat tiedot omillasi.
 let etunimi = document.body.getElementsByTagName("td")[0];
 let sukunimi = document.body.getElementsByTagName("td")[1];
 let nikki = document.body.getElementsByTagName("td")[2];

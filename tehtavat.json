@@ -69,5 +69,15 @@
             "dom/tehtava4/tehtava4.html",
             "dom/tehtava5/tehtava5.html"
         ]
+    },
+    {
+        "name": "Eventit",
+        "links": [
+            "eventit/tehtava1/tehtava1.html",
+            "eventit/tehtava2/tehtava2.html",
+            "eventit/tehtava3/tehtava3.html",
+            "eventit/tehtava4/tehtava4A.html",
+            "eventit/tehtava5/tehtava4B.html"
+        ]
     }
 ]
