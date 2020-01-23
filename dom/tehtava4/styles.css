@@ -1,0 +1,10 @@
+
+/*tee tehtäviin 3 ja 4 CSS-tiedosto, joka poistaa listan edestä pallerot (list-style-type),
+ja joka tekee joka toisen <li> elementin taustan harmaaksi (pseudo-classes) (2p)*/
+li {
+    list-style-type: none;
+}
+
+li:nth-child(2n) {
+    background-color: grey;
+}

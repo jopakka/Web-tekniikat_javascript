@@ -1,0 +1,7 @@
+li {
+    list-style-type: none;
+}
+
+li:nth-child(2n) {
+    background-color: grey;
+}

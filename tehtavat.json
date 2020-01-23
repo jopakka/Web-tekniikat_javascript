@@ -59,5 +59,15 @@
             "funktiot/tehtava6/tehtava6.html",
             "funktiot/tehtava7/tehtava7.html"
         ]
+    },
+    {
+        "name": "DOM",
+        "links": [
+            "dom/tehtava1/tehtava1.html",
+            "dom/tehtava2/tehtava2.html",
+            "dom/tehtava3/tehtava3.html",
+            "dom/tehtava4/tehtava4.html",
+            "dom/tehtava5/tehtava5.html"
+        ]
     }
 ]
