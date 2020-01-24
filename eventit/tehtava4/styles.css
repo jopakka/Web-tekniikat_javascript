@@ -1,0 +1,8 @@
+/* tee erillinen CSS-tiedosto */
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
+}

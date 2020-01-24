@@ -12,3 +12,29 @@ const pics = [
     big: 'https://placeimg.com/640/480/tech',
   },
 ];
+
+let ul = document.body.getElementsByTagName("ul")[0];
+
+for(let i = 0; i < pics.length; i++){
+  let li = document.createElement("li");
+  let img = document.createElement("img");
+  img.src = pics[i].thumb;
+  img.addEventListener("click", () => showBigPic(i));
+  li.appendChild(img);
+  ul.appendChild(li);
+}
+
+function showBigPic(i) {
+  console.log("showBigPic");
+  let div = document.body.getElementsByTagName("div")[0];
+  let img = div.getElementsByTagName("img")[0];
+  img.src = pics[i].big;
+  img.addEventListener("click", hideBigPic);
+  div.className = "visible";
+}
+
+function hideBigPic() {
+  console.log("hideBigPic");
+  let div = document.getElementsByClassName("visible")[0];
+  div.className = "hidden";
+}
