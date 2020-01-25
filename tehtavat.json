@@ -79,5 +79,11 @@
             "eventit/tehtava4/tehtava4A.html",
             "eventit/tehtava4/tehtava4B.html"
         ]
+    },
+    {
+        "name": "Ajax",
+        "links": [
+            "ajax/tehtava1.html"
+        ]
     }
 ]
